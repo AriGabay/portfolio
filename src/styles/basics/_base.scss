@@ -1,0 +1,24 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    font-family: Raleway;
+    line-height: 1.6;
+    color: $clr2;
+}
+
+body {
+    margin: 0;
+    background-color: $clr1;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: Raleway;
+    font-weight: 500;
+}
